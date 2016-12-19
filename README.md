@@ -11,4 +11,5 @@ inicio: suma de dos Numeros
 - pedir numero2
 - Sumar numero1 con numero2 almacenar en resultado
 - mostrar resultado
-#End
+
+# End
