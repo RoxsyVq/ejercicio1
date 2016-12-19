@@ -5,8 +5,10 @@ inicio: suma de dos Numeros
 - numero1
 - numero2
 - resultado
-### proceso
+
+## proceso
 - Pedir numero1
 - pedir numero2
 - Sumar numero1 con numero2 almacenar en resultado
 - mostrar resultado
+#End
