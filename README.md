@@ -12,4 +12,4 @@ inicio: suma de dos Numeros
 - Sumar numero1 con numero2 almacenar en resultado
 - mostrar resultado
 
-# End
+# Endma

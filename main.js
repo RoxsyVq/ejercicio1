@@ -6,3 +6,4 @@ numero2 = prompt("Por favor, ingresa otro número");
 resultado = parseFloat(numero1) + parseFloat(numero2);
 
 alert(resultado);
+document.write("Su promedio es " + resultado)
